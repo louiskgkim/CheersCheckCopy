@@ -53,8 +53,8 @@ SO THAT I can  I can share with friends and other users who might have similar t
 
 ###  Links 🔗
 
-- Github URL: [https://github.com/mathewsida/CheersCheck](https://github.com/mathewsida/CheersCheck)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github URL: [https://github.com/louiskgkim/CheersCheckCopy](https://github.com/louiskgkim/CheersCheckCopy)
+- Live Site URL: [https://floating-lowlands-28982.herokuapp.com/](https://floating-lowlands-28982.herokuapp.com/)
 
 <br>
 <hr>
